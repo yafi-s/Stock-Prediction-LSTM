@@ -1,0 +1,15 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+yfinance==0.2.58
+pandas==2.2.0
+numpy==1.26.3
+sqlmodel==0.0.14
+python-dotenv==1.0.1
+tensorflow==2.16.1
+scikit-learn==1.4.0
+python-multipart==0.0.6
+httpx==0.26.0
+pytest==8.0.0
+black==24.1.1
+isort==5.13.2
+flake8==7.0.0 
