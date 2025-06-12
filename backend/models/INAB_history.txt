@@ -1,0 +1,14 @@
+Training History:
+Final train MAE (loss): 0.0603
+Final val   MAE (loss): 0.0467
+Final train metric MAE: 0.2593
+Final val   metric MAE: 0.1545
+
+Model Architecture:
+LSTM Units: [256, 128]
+Dropout Rate: 0.15
+Learning Rate: 0.001
+Batch Size: 64
+Sequence Length: 30
+Train samples: 709
+Val   samples: 178
