@@ -100,19 +100,13 @@
 
     ### Backend
 
-    1. Create and activate a virtual environment:
-    ```bash
-    python -m venv .venv
-    .venv\Scripts\activate 
-    ```
-
-    2. Install dependencies:
+    1. Install dependencies:
     ```bash
     cd backend
     pip install -r requirements.txt
     ```
 
-    3. Start the FastAPI server:
+    2. Start the FastAPI server:
     ```bash
     cd backend
     python main.py
