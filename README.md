@@ -113,7 +113,7 @@
     python main.py
     ```
 
-    ### Frontend
+    ### Frontend (create new terminal)
 
     1. Install dependencies:
     ```bash
@@ -133,8 +133,7 @@
     1. Train a model for a specific stock:
     ```bash
     python train.py --symbol SYMBOL
-
-    Pretrained Modules: AAPL, NVDA, NFLX, SOFI, UL, INAB, TM, MSFT, TSLA, and GOOGL
+    Pretrained Models: AAPL, NVDA, NFLX, SOFI, UL, INAB, TM, MSFT, TSLA, and GOOGL
     ```
 
 
@@ -144,16 +143,17 @@
 
     ## Model Management
 
-    To manage models and metrics:
-
     ```bash
-    # Train a new model
+    # Train a new model (create a new terminal)
+    cd backend
     python train.py --symbol SYMBOL
 
     # Clear existing model files
+    cd backend
     Remove-Item models\SYMBOL_*
 
     # Clear existing metric files
+    cd backend
     Remove-Item metrics\SYMBOL_*
     ```
 
