@@ -1,0 +1,12 @@
+Symbol: NFLX
+Last Close (train end): $610.52
+Overall MAPE: 0.13%
+Overall MAE: 1.24
+Overall RMSE: 1.79
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.08%, MAE=0.76, RMSE=1.12
+  Day 2: MAPE=0.13%, MAE=1.14, RMSE=1.56
+  Day 3: MAPE=0.13%, MAE=1.22, RMSE=1.75
+  Day 4: MAPE=0.15%, MAE=1.41, RMSE=1.97
+  Day 5: MAPE=0.18%, MAE=1.66, RMSE=2.33

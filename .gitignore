@@ -40,15 +40,6 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Project specific
-models/
-metrics/
-data/
-*.h5
-*.keras
-*.joblib
-*.pkl
-
 # Large files
 *.pyd
 *.dll

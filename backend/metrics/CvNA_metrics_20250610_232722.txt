@@ -1,0 +1,12 @@
+Symbol: CvNA
+Last Close (train end): $117.50
+Overall MAPE: 1.01%
+Overall MAE: 2.26
+Overall RMSE: 3.23
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.74%, MAE=1.72, RMSE=2.75
+  Day 2: MAPE=0.85%, MAE=1.88, RMSE=2.71
+  Day 3: MAPE=1.13%, MAE=2.57, RMSE=3.84
+  Day 4: MAPE=1.16%, MAE=2.58, RMSE=3.36
+  Day 5: MAPE=1.20%, MAE=2.54, RMSE=3.33

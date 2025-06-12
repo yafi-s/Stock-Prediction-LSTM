@@ -1,0 +1,12 @@
+Symbol: RGTI
+Last Close (train end): $1.07
+Overall MAPE: 2.61%
+Overall MAE: 0.27
+Overall RMSE: 0.54
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=1.42%, MAE=0.13, RMSE=0.25
+  Day 2: MAPE=1.85%, MAE=0.18, RMSE=0.34
+  Day 3: MAPE=3.08%, MAE=0.31, RMSE=0.56
+  Day 4: MAPE=2.82%, MAE=0.29, RMSE=0.58
+  Day 5: MAPE=3.88%, MAE=0.42, RMSE=0.80

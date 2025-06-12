@@ -1,0 +1,12 @@
+Symbol: SOFI
+Last Close (train end): $6.47
+Overall MAPE: 0.29%
+Overall MAE: 0.04
+Overall RMSE: 0.05
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.33%, MAE=0.04, RMSE=0.06
+  Day 2: MAPE=0.32%, MAE=0.04, RMSE=0.06
+  Day 3: MAPE=0.16%, MAE=0.02, RMSE=0.02
+  Day 4: MAPE=0.24%, MAE=0.03, RMSE=0.04
+  Day 5: MAPE=0.39%, MAE=0.05, RMSE=0.06

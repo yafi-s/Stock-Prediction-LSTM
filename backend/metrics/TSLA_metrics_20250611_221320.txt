@@ -1,0 +1,12 @@
+Symbol: TSLA
+Last Close (train end): $174.95
+Overall MAPE: 0.56%
+Overall MAE: 1.73
+Overall RMSE: 2.45
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.46%, MAE=1.39, RMSE=1.90
+  Day 2: MAPE=0.44%, MAE=1.35, RMSE=1.83
+  Day 3: MAPE=0.65%, MAE=1.97, RMSE=2.61
+  Day 4: MAPE=0.58%, MAE=1.80, RMSE=2.66
+  Day 5: MAPE=0.68%, MAE=2.14, RMSE=3.02

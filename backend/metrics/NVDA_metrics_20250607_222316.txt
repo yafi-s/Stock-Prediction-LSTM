@@ -1,0 +1,12 @@
+Symbol: NVDA
+Last Close (train end): $94.60
+Overall MAPE: 0.28%
+Overall MAE: 0.35
+Overall RMSE: 0.45
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.16%, MAE=0.20, RMSE=0.27
+  Day 2: MAPE=0.22%, MAE=0.28, RMSE=0.36
+  Day 3: MAPE=0.29%, MAE=0.36, RMSE=0.46
+  Day 4: MAPE=0.33%, MAE=0.42, RMSE=0.52
+  Day 5: MAPE=0.38%, MAE=0.47, RMSE=0.58

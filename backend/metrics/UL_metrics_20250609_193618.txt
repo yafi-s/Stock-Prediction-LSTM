@@ -1,0 +1,12 @@
+Symbol: UL
+Last Close (train end): $52.34
+Overall MAPE: 0.03%
+Overall MAE: 0.02
+Overall RMSE: 0.02
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.02%, MAE=0.01, RMSE=0.01
+  Day 2: MAPE=0.02%, MAE=0.01, RMSE=0.02
+  Day 3: MAPE=0.03%, MAE=0.02, RMSE=0.02
+  Day 4: MAPE=0.04%, MAE=0.02, RMSE=0.03
+  Day 5: MAPE=0.04%, MAE=0.02, RMSE=0.03

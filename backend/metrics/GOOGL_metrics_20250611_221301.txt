@@ -1,0 +1,12 @@
+Symbol: GOOGL
+Last Close (train end): $175.87
+Overall MAPE: 0.19%
+Overall MAE: 0.33
+Overall RMSE: 0.45
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.12%, MAE=0.21, RMSE=0.25
+  Day 2: MAPE=0.16%, MAE=0.27, RMSE=0.34
+  Day 3: MAPE=0.20%, MAE=0.35, RMSE=0.47
+  Day 4: MAPE=0.25%, MAE=0.42, RMSE=0.56
+  Day 5: MAPE=0.24%, MAE=0.41, RMSE=0.53

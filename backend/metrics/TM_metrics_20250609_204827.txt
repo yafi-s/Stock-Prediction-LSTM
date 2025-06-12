@@ -1,0 +1,12 @@
+Symbol: TM
+Last Close (train end): $212.56
+Overall MAPE: 0.08%
+Overall MAE: 0.14
+Overall RMSE: 0.19
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.05%, MAE=0.10, RMSE=0.13
+  Day 2: MAPE=0.06%, MAE=0.12, RMSE=0.16
+  Day 3: MAPE=0.08%, MAE=0.14, RMSE=0.19
+  Day 4: MAPE=0.09%, MAE=0.16, RMSE=0.21
+  Day 5: MAPE=0.10%, MAE=0.18, RMSE=0.24

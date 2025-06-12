@@ -1,0 +1,12 @@
+Symbol: MSFT
+Last Close (train end): $422.10
+Overall MAPE: 0.21%
+Overall MAE: 0.89
+Overall RMSE: 1.34
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.18%, MAE=0.77, RMSE=1.18
+  Day 2: MAPE=0.17%, MAE=0.73, RMSE=0.85
+  Day 3: MAPE=0.13%, MAE=0.57, RMSE=0.78
+  Day 4: MAPE=0.40%, MAE=1.70, RMSE=2.34
+  Day 5: MAPE=0.16%, MAE=0.68, RMSE=0.89

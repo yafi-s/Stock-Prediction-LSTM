@@ -1,0 +1,12 @@
+Symbol: WCT
+Last Close (train end): $0.18
+Overall MAPE: 7.71%
+Overall MAE: 0.02
+Overall RMSE: 0.03
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=12.20%, MAE=0.03, RMSE=0.04
+  Day 2: MAPE=5.82%, MAE=0.02, RMSE=0.02
+  Day 3: MAPE=9.08%, MAE=0.03, RMSE=0.03
+  Day 4: MAPE=6.09%, MAE=0.02, RMSE=0.02
+  Day 5: MAPE=5.35%, MAE=0.01, RMSE=0.02

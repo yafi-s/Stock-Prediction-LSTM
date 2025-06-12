@@ -1,0 +1,12 @@
+Symbol: VOO
+Last Close (train end): $480.25
+Overall MAPE: 0.11%
+Overall MAE: 0.57
+Overall RMSE: 0.88
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.13%, MAE=0.67, RMSE=1.15
+  Day 2: MAPE=0.08%, MAE=0.43, RMSE=0.63
+  Day 3: MAPE=0.08%, MAE=0.43, RMSE=0.72
+  Day 4: MAPE=0.06%, MAE=0.33, RMSE=0.58
+  Day 5: MAPE=0.18%, MAE=0.97, RMSE=1.14

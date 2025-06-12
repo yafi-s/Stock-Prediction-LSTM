@@ -6,11 +6,12 @@
 
     - The predictions provided by this application are based on historical data and machine learning models, which are inherently imperfect and cannot account for all market variables.
     - Past performance is not indicative of future results.
-    - The program and develepor:
+    - The program and developer:
     - Are not responsible for any financial losses incurred from using this application
     - Do not guarantee the accuracy of predictions
     - Do not endorse any trading decisions based on these predictions
 
+    **USE AT YOUR OWN RISK. Always consult with qualified financial advisors before making any investment decisions.**
 
     ## Overview
 

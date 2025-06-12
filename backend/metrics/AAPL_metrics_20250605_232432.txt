@@ -1,0 +1,12 @@
+Symbol: AAPL
+Last Close (train end): $190.01
+Overall MAPE: 0.02%
+Overall MAE: 0.04
+Overall RMSE: 0.05
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=0.02%, MAE=0.04, RMSE=0.05
+  Day 2: MAPE=0.02%, MAE=0.03, RMSE=0.04
+  Day 3: MAPE=0.01%, MAE=0.03, RMSE=0.05
+  Day 4: MAPE=0.02%, MAE=0.04, RMSE=0.05
+  Day 5: MAPE=0.02%, MAE=0.04, RMSE=0.05

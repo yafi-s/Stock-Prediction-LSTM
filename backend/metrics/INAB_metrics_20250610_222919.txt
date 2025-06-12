@@ -1,0 +1,12 @@
+Symbol: INAB
+Last Close (train end): $19.05
+Overall MAPE: 2.26%
+Overall MAE: 0.17
+Overall RMSE: 0.26
+
+Metrics per prediction day (unscaled prices):
+  Day 1: MAPE=1.54%, MAE=0.12, RMSE=0.18
+  Day 2: MAPE=2.31%, MAE=0.18, RMSE=0.26
+  Day 3: MAPE=2.68%, MAE=0.20, RMSE=0.28
+  Day 4: MAPE=2.30%, MAE=0.18, RMSE=0.26
+  Day 5: MAPE=2.47%, MAE=0.19, RMSE=0.30
