@@ -133,7 +133,10 @@
     1. Train a model for a specific stock:
     ```bash
     python train.py --symbol SYMBOL
+
+    Pretrained Modules: AAPL, NVDA, NFLX, SOFI, UL, INAB, TM, MSFT, TSLA, and GOOGL
     ```
+
 
     2. Access the web interface at http://localhost:5173
     3. Enter a stock symbol (e.g., AAPL, GOOGL, MSFT)
