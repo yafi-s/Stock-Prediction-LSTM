@@ -271,5 +271,5 @@ def predict_next_week(
 
 def predict_next_days(symbol: str, last_date: datetime) -> Tuple[List[str], List[float], List[float]]:
     """Generate predictions for the next PREDICTION_DAYS"""
-    # ... existing code ...
+    
  
