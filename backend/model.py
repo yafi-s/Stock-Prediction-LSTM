@@ -88,7 +88,7 @@ def create_model(
     dropout_rate: float = 0.2
 ) -> Sequential:
     """
-    Build an improved LSTM model with attention mechanism and volatility awareness.
+    LSTM model with attention mechanism and volatility awareness.
     """
     model = Sequential([
         Input(shape=input_shape),
@@ -146,7 +146,7 @@ def create_model(
         epsilon=1e-07
     )
     
-    # Use custom volatility-aware loss
+    # custom volatility-aware loss
     model.compile(
         optimizer=optimizer,
         loss=VolatilityAwareLoss(volatility_weight=0.3),
